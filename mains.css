@@ -1,0 +1,123 @@
+body{  font-family:arial ;margin: 0 0 0 265px;padding: 0;}
+
+#container{width: 1000px;height: 820px;padding: 10px 0 0 0;margin: 0;background-image: url(http://machine67:8001/ClientExtranet/CE-Background.gif);background-repeat: repeat-y;}
+
+input{margin:0;}
+
+.cleardiv{clear:both;}
+
+#content1{padding: 10px 0 0 0;  margin: 0;}
+
+#header{margin: 0; padding:0;}
+
+#header img{float: left;padding: 15px 25px 0 35px;}
+
+#header h3.heading{float: left;border-left: 1px solid black;font-family: sans-serif;font-weight: normal;margin: 8px 10px 4px 2px; padding-top: 4px; padding-bottom: 4px;}
+
+#nav{clear:both; margin:0 0 0 20px; padding:0;}
+
+#nav li{float:left; list-style-type:none; display:block; background-color:#D6DAE4; font-weight:bold; font-size:13px; font-family:Arial; padding:.23em .7em; margin-left:.5em;}
+
+#nav li.selected{background-color:#006495;}
+
+#nav a:link , #nav a:visited {text-decoration: none;color: black;}
+
+#nav li.selected a{color:#FFF;}
+
+#nav a:hover{text-decoration: underline;} 
+
+#one{height: 20px;}
+
+#thrd{float: right;margin: 0 38px 0;padding: 0;}
+
+#thrd p{font-size: 80%;font-family: arial;margin: 0;}
+
+#thrd p a:link , #thrd p a:visited {color: black;}
+
+#thrd p a:hover{color: steelblue;}
+
+#second p{font-size: small;margin: 4px;font-family: arial;font-weight: bold; padding: 0;}
+
+#second p a:link , #second p a:visited {text-decoration: none;color: white;}
+
+#second p a:hover{text-decoration: underline;}
+
+#content2{height: 80px; padding: 0;width: 945px;border: 1px solid lightgray;float:left;margin: 0 0 0 20px; border-top:0;} 
+
+#third{height: 25px;padding: 0;margin: 0;width: 945px;background-color: #006495;}
+
+#third p{color: white;float: right;font-family: arial;font-size: 75%;margin: 5px;padding: 0;}
+
+#fourth{height: 30px;width: 945px;background-color: #e6eaf3;}
+
+#fourth p{font-family: arial;font-weight: bold;font-size: 85%;padding: 5px 0 0 0;margin: 0 0 5px 45px;float: left;}
+
+#fifth{height: 20px;width: 930px;}
+
+#fifth p{font-family: arial;font-weight: bold;font-size: 85%;padding: 3px 0 0 0;margin: 0 0 5px 45px;float: left;}
+
+#main{height: 580px;width: 970px;margin: 10px 0 0 20px; clear:both;}
+
+#lastrow img{border: 0;padding: 5px 0 0 1px; }
+
+#lastrow p a:link, #lastrow p a:visited{color: black;}
+
+#redrow{width: 945px;height: 10px;margin: 10px 10px 0 0px; background-color: firebrick;}
+
+#footer p a:link, #footer p a:visited{text-decoration: underline;color: #676767;}
+
+#footer p a:hover{color: steelblue;text-decoration: underline;}
+
+#two{border-bottom: 1px solid lightgray;border-left: 1px solid lightgray;height: 20px;width: 21px;background-color: #F5F5F5;float: left;}
+
+#three{border-left: 1px solid lightgray;height: 220px;width: 920px;background-color: #F5F5F5;float: left;}
+
+#four{width: 885px;height: 170px;border: 1px solid lightgray;margin: 40px 10px 5px;background-color: white;}
+
+#five{clear: both;border-bottom: 1px solid lightgray;border-left: 1px solid lightgray;border-top: 1px solid lightgray;height: 30px;width: 930px;float: left;}
+
+#five ul{clear:both;margin:0;padding:0;}
+
+
+
+#eight{width: 885px;height: 170px;border: 1px solid lightgray;margin: 40px 10px 5px;background-color: white;}
+
+#three h5{font-family: arial;margin: 5px 20px;float: left;}
+
+#three p{font-family: arial;float:right;font-size: small;margin: 5px 10px 5px 0;color: steelblue;padding-right: 15px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif);background-position: 100% 12%;background-repeat: no-repeat;}
+
+#three p a:link, #three p a:visited{color: steelblue;}
+
+#four ul li{font-size: x-small;font-family: arial;}
+
+#five li{float: left;font-size: 75%;font-family: arial; list-style-type:none; }
+
+
+
+#eight ul li{font-size: x-small;font-family: arial;}
+
+.bBorder{border-bottom:1px solid #B7B9BD; border-right:1px solid #B7B9BD;float: left;}
+
+.ulListing{clear:both; margin:0; padding:0; height:20px;}
+
+.ulListing li{float:left; line-height:1em; text-align:center; list-style-type:none; border:1px solid #B7B9BD; border-right:0; background-color:#e6eaf3; padding:1px 0 3px 0; }
+
+#ulHeader{ height: 30px;clear:both; margin:0; padding:0; }
+#ulHeader li a{color:#000;  font-family: arial; font-weight: bold;text-decoration:none; background:transparent url(CE-icons.gif) no-repeat right -84px; padding-right:12px;}
+#ulHeader li{float:left; line-height:1.5em; text-align:center; list-style-type:none; border:1px solid #B7B9BD; border-right:0; background-color:#e6eaf3; padding:1px 0 3px 0; }
+#ulHeader .nobg a{background:none;}
+#ulHeader .chklist{font-size: 70%;width:21px; padding:3px 0 0;}
+.date{width: 95px;font-family: arial;font-size: 70%;} .car{font-size: 70%;font-family: arial;width: 155px;}.btime{font-size: 70%;font-family: arial;width: 100px;}.ltype{font-size: 70%;font-family: arial;width: 100px;}.name{font-size: 70%;width: 105px;font-family: arial;}.state{font-size: 70%;font-family: arial;width: 100px;}.city{font-size: 70%;font-family: arial;width: 100px;}
+#ulHeader .action{width: 160px;font-size: 70%; (-bracket-:hack; width: 127px;); border-right: 1px solid #b7b9bd;}
+.ulListing .action{width: 160px;font-size: 70%; (-bracket-:hack; width: 127px;); border-right:0 none;}
+.ulListing .chklist{font-size: 70%;width:21px; padding:2px 0 0; }
+
+.ulListing .date{cursor: pointer; background-image: url(CE-icons.gif);background-repeat: no-repeat;background-position: 78px -131px; }
+
+.ulListing li{text-align:center; height:3em; padding-top: 3px;background:none; border-top:0;}.ulListing{height:2.5em;}.ulListing .chklist{padding-top:3px;padding-bottom: 3px;}
+
+.ulListing li.action p.accept{ font-family: arial;float:right;font-size: 100%;margin: 5px 10px 5px 0;color: steelblue;padding-right: 15px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif);background-position: 100% 20%;background-repeat: no-repeat;}
+.ulListing li.action p.reject{ font-family: arial;float:right;font-size: 100%;margin: 5px 10px 5px 0;color: steelblue;padding-right: 15px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif);background-position: 100% 12%;background-repeat: no-repeat;color: black;padding-right: 0;padding-left: 20px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif); background-position: 0% 25%;margin-right: 10px;}
+.ulListing li.action p.orange{font-family: arial;float:right;font-size: 100%;margin: 5px 10px 5px 0;color: steelblue;padding-right: 15px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif);background-position: 100% 12%;background-repeat: no-repeat;color: #e57f7f;padding-right: 0;padding-left: 20px;background-image: url(http://machine67:8001/ClientExtranet/CE-icons.gif); background-position: 0% 32%;margin-right: 10px;}
+.ulListing li.action p.nobg {background:none;}
+.ulListing li.action p.accept a:link, .ulListing li.action p.accept a:visited{color: steelblue;}
